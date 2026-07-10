@@ -194,6 +194,9 @@ body {
   color: #424242;
   font-size: small;
 }
+.card li::marker {
+  color: #2563eb;
+}
 #pro li {
   color: #bec1c5;
 }
@@ -219,4 +222,5 @@ body {
   border: #656e78 solid 2px;
   color: #2c3846;
 }
+
 /* secure-your-spot end */
