@@ -223,9 +223,72 @@ body {
   border: #656e78 solid 2px;
   color: #2c3846;
 }
-
 /* secure-your-spot end */
+
 /* ai generated section */
+
+.hackathon {
+  margin-top: 160px;
+}
+
+.hackathon-heading {
+  text-align: center;
+}
+
+.hackathon-heading h1 {
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.hackathon-heading p {
+  margin: 20px auto 0;
+  max-width: 720px;
+  color: #666;
+  line-height: 1.7;
+}
+
+.hackathon-cards {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.hackathon-card {
+  border: 3px solid #eef0f2;
+  border-radius: 12px;
+  padding: 35px 25px;
+  text-align: center;
+  transition: 0.3s;
+}
+
+.hackathon-card:hover {
+  transform: translateY(-8px);
+}
+
+.icon {
+  width: 70px;
+  height: 70px;
+  background: #2563eb;
+  color: white;
+  border-radius: 50%;
+  margin: auto;
+  font-size: 34px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hackathon-card h3 {
+  margin-top: 20px;
+  font-size: 22px;
+}
+
+.hackathon-card p {
+  margin-top: 12px;
+  color: #666;
+  line-height: 1.6;
+}
 /* ai generated section end */
 
 /* footer section */
