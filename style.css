@@ -209,6 +209,7 @@ body {
   outline: none;
   border: none;
   font-weight: 700;
+  cursor: pointer;
 }
 #pro button {
   color: #fcfdfe;
@@ -224,3 +225,42 @@ body {
 }
 
 /* secure-your-spot end */
+/* ai generated section */
+/* ai generated section end */
+
+/* footer section */
+.footer-root {
+  background-color: #0d1b2a;
+}
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 160px;
+  padding: 20px 30px;
+}
+.footer img {
+  background-color: white;
+  border-radius: 8px;
+  padding: 8px;
+}
+.footer div i {
+  color: white;
+  font-size: 45px;
+  cursor: pointer;
+}
+.copyright hr {
+  border: none;
+  height: 2px;
+  background-color: #222f3d;
+  margin-bottom: 15px;
+}
+.copyright {
+  text-align: center;
+  color: white;
+  padding-bottom: 30px;
+}
+
+/* footer section end */
+
+/* #222f3d */
