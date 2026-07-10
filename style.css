@@ -47,3 +47,33 @@ body {
   font-weight: 600;
 }
 /* nav section end */
+
+/* banner start */
+.banner-root {
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url(./assets/image/banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 90%;
+}
+.banner {
+  color: white;
+  text-align: center;
+  padding: 130px 450px 100px;
+}
+.banner h1 {
+  font-weight: 900;
+  font-size: 50px;
+}
+.banner p {
+  margin-top: 30px;
+  color: #d1d1d2;
+}
+.banner button {
+  padding: 20px 70px;
+  margin-top: 300px;
+  font-weight: 600;
+  font-size: large;
+}
+/* banner end */
