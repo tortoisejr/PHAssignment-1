@@ -302,11 +302,7 @@ body {
   margin-top: 160px;
   padding: 20px 30px;
 }
-.footer img {
-  background-color: white;
-  border-radius: 8px;
-  padding: 8px;
-}
+
 .footer div i {
   color: white;
   font-size: 45px;
